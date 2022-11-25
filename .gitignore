@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Input and output files
+*.root
+*.eps
+*.png
+*.dat
+*.txt
+*.pdf
